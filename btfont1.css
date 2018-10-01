@@ -1,0 +1,146 @@
+.khung{
+	margin: 0 auto;
+	width: 85%;
+	height: 600px;
+	background: #ccddff;
+}
+.header h3{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 30px;
+	color: white;
+	text-transform: uppercase;
+}
+.khung .Signin{
+	float: left;
+	width: 450px;
+	height: 300px;
+	background:  grey;
+	margin-left: 80px;
+	margin-top: 10px;
+}
+.khung .Signup{
+	float: right;
+	width: 450px;
+	height: 400px;
+	background:  grey;
+	margin-top: 10px;
+	margin-right: 80px;
+}
+.Signin h4{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+.Signin form input{
+	display: block;
+	width: 60%;
+	height: 20px;
+	border-radius: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 50px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+	padding-left: 10px;
+}
+.Signin form input.username{
+	background-image: url(https://www.flaticon.com/premium-icon/icons/svg/1144/1144760.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signin form input.pass{
+	background-image: url(https://image.flaticon.com/icons/svg/481/481195.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signin .box1{
+	float: left;
+	width: 120px;
+	height: 30px;
+	background: green;
+	margin-left: 60px;
+}
+.Signin .box2{
+	float: right;
+	width: 120px;
+	height: 30px;
+	background: red;
+	margin-right: 70px;
+}
+.Signin a{
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+	text-transform: uppercase;
+	padding-left: 30px;
+	padding-top: 20px;
+	line-height: 30px;
+}
+.Signin a:hover{
+	color: violet;
+}
+
+.Signup h4{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+.Signup form input{
+	display: block;
+	width: 60%;
+	height: 20px;
+	border-radius: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 50px;
+	margin-bottom: 20px;
+	margin-left: 60px;
+	padding-left: 10px;
+}
+
+.Signup form input.username{
+	background-image: url(https://www.flaticon.com/premium-icon/icons/svg/1144/1144760.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signup form input.pass{
+	background-image: url(https://image.flaticon.com/icons/svg/481/481195.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signup form input.phone{
+	background-image: url(https://image.flaticon.com/icons/svg/126/126509.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signup form input.emailaddress{
+	background-image: url(https://image.flaticon.com/icons/svg/1034/1034146.svg);
+	background-repeat: no-repeat;
+	background-size: 25px auto;
+	background-position: right 5px;
+}
+.Signup .box3{
+	float: left;
+	width: 335px;
+	height: 30px;
+	background: green;
+	margin-left: 60px;
+}
+.Signup a{
+	color: white;
+	text-decoration: none;
+	font-size: 17px;
+	text-transform: uppercase;
+	padding-left: 130px;
+	padding-top: 20px;
+	line-height: 30px;
+}
+.Signup a:hover{
+	color: violet;
+}
